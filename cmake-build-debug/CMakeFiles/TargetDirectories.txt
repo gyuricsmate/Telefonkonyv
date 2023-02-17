@@ -1,0 +1,3 @@
+D:/Suli/Programozas/Programok/CLion/NH_kesz/NH_kesz/cmake-build-debug/CMakeFiles/Nagy_hazi.dir
+D:/Suli/Programozas/Programok/CLion/NH_kesz/NH_kesz/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Suli/Programozas/Programok/CLion/NH_kesz/NH_kesz/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/bejegyzes.h" charset="windows-1250" />
+    <file url="file://$PROJECT_DIR$/cmake-build-debug/kontaktok.nevjegy" charset="windows-1250" />
+    <file url="file://$PROJECT_DIR$/fajlkezeles.c" charset="windows-1250" />
+    <file url="file://$PROJECT_DIR$/fajlkezeles.h" charset="windows-1250" />
+    <file url="file://$PROJECT_DIR$/kereses.c" charset="windows-1250" />
+    <file url="file://$PROJECT_DIR$/kereses.h" charset="windows-1250" />
+    <file url="file://$PROJECT_DIR$/lancoltlista.c" charset="windows-1250" />
+    <file url="file://$PROJECT_DIR$/lancoltlista.h" charset="windows-1250" />
+    <file url="file://$PROJECT_DIR$/main.c" charset="windows-1250" />
+    <file url="file://$PROJECT_DIR$/menu.c" charset="windows-1250" />
+    <file url="file://$PROJECT_DIR$/menu.h" charset="windows-1250" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

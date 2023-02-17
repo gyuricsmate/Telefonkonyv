@@ -1,0 +1,5 @@
+Keresés függvény végtelen ciklusba lép                      --kész
+Brute force módon való keresés helyett enum-mal megadva     --kész
+Működjön a *-os keresés                                     --kész
+Törlésnél memóriakezelési hibát jelez a debugmalloc         --kész
+Dokumentációk újra írása						    --kész

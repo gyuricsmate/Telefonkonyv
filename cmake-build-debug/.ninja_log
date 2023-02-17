@@ -1,0 +1,26 @@
+# ninja log v5
+1	2340	6918662564390127	CMakeFiles/Nagy_hazi.dir/main.c.obj	659f30aa3c213e2e
+4	164	6918669431494078	CMakeFiles/Nagy_hazi.dir/menu.c.obj	6c67f97fe188f914
+169	270	6918669432521165	Nagy_hazi.exe	a271931a6d8ff29b
+13	168	6918669431529697	CMakeFiles/Nagy_hazi.dir/lancoltlista.c.obj	f93788816778f176
+21	166	6918662543025448	CMakeFiles/Nagy_hazi.dir/kereses.c.obj	2c14a1f176032b3d
+9	164	6918669431504526	CMakeFiles/Nagy_hazi.dir/fajlkezeles.c.obj	3ad8135d45ab2eeb
+1	107	6918687304946800	build.ninja	73d932672ab1a574
+9	282	6918694391957624	CMakeFiles/Nagy_hazi.dir/fajlkezeles.c.obj	dd47841a9be91281
+18	291	6918694392418242	CMakeFiles/Nagy_hazi.dir/lancoltlista.c.obj	770f909d6c78fa26
+4	293	6918694392438282	CMakeFiles/Nagy_hazi.dir/menu.c.obj	a544ed69177bd7b9
+14	294	6918694392438282	CMakeFiles/Nagy_hazi.dir/kereses.c.obj	c562a5b07347db48
+22	1221	6918694401692202	CMakeFiles/Nagy_hazi.dir/main.c.obj	2483d29bfcbf8e7b
+1222	1353	6918694403001801	Nagy_hazi.exe	a271931a6d8ff29b
+5	181	6918695452369023	CMakeFiles/Nagy_hazi.dir/menu.c.obj	a544ed69177bd7b9
+182	333	6918695453853456	Nagy_hazi.exe	a271931a6d8ff29b
+3	121	6918696314955247	CMakeFiles/Nagy_hazi.dir/menu.c.obj	a544ed69177bd7b9
+121	221	6918696315879696	Nagy_hazi.exe	a271931a6d8ff29b
+2	811	6918706366440946	CMakeFiles/Nagy_hazi.dir/main.c.obj	2483d29bfcbf8e7b
+811	915	6918706367424120	Nagy_hazi.exe	a271931a6d8ff29b
+3	979	6918747090955510	CMakeFiles/Nagy_hazi.dir/main.c.obj	2483d29bfcbf8e7b
+980	1076	6918747091894257	Nagy_hazi.exe	a271931a6d8ff29b
+2	833	6918747669615737	CMakeFiles/Nagy_hazi.dir/main.c.obj	2483d29bfcbf8e7b
+833	948	6918747670532391	Nagy_hazi.exe	a271931a6d8ff29b
+3	111	6918749420100329	CMakeFiles/Nagy_hazi.dir/lancoltlista.c.obj	770f909d6c78fa26
+111	222	6918749421171069	Nagy_hazi.exe	a271931a6d8ff29b
